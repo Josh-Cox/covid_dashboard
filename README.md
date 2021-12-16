@@ -5,7 +5,6 @@ The type and time of data updates is determined by the user, along with which ne
 
 ---
 ## **Before Running**
-<p>&nbsp;</p>
 
 _**Python Version 3.9.9**_
 

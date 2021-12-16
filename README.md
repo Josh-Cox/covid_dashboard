@@ -20,6 +20,9 @@ pip install uk_covid19
 ```
 pip install pytest
 ```
+```
+pip install requests
+```
 ---
 ## **Getting Started**
 - Open command line
@@ -46,6 +49,7 @@ pip install pytest
 
 |           |                         |
 | :-------: |:-----------------------:|
-|      ```Author```     |  Josh Cox   |
-|     ```License```     |     MIT     |
-|   ```Source Code```   |     https://github.com/Josh-Cox/covid_dashboard     |
+|      ```Author```     |     Josh Cox     |
+|    ```index.html Author```  |   Matt Collison    |
+|     ```License```     |        MIT       |
+|   ```Source Code```   |     https://github.com/Josh-Cox/covid_dashboard/    |

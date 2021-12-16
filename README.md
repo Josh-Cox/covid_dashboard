@@ -53,3 +53,4 @@ pip install requests
 |    ```index.html Author```  |   Matt Collison    |
 |     ```License```     |        MIT       |
 |   ```Source Code```   |     https://github.com/Josh-Cox/covid_dashboard/    |
+|           |                         |

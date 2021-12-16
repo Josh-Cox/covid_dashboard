@@ -48,4 +48,4 @@ pip install pytest
 | :-------: |:-----------------------:|
 |      ```Author```     |  Josh Cox   |
 |     ```License```     |     MIT     |
-|   ```Source Code```   |     IDK     |
+|   ```Source Code```   |     https://github.com/Josh-Cox/covid_dashboard     |
